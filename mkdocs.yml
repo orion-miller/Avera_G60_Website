@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: Avera G60
+
+
+repo_url: https://github.com/orion-miller/Avera_G60_Website
+site_author: Orion Miller
+site_description: "Avera G-60 electric guitar design"
+
+nav:
+- 'About': 'index.md'
+- 'Specs': 'index.md'
+- 'Controls': 'index.md'
+- 'Image Gallery': 'index.md'
+- 'Download': 
+    - "Disclaimer": 'index.md'
+    - "Download": 'index.md'
