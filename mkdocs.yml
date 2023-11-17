@@ -5,6 +5,10 @@ theme:
     scheme: slate
     primary: black
   favicon: images/favicon.ico
+  font:
+    text: PT Sans  
+  features:
+    - navigation.tabs    
 
 repo_url: https://github.com/orion-miller/Avera_G60_Website
 site_author: Orion Miller
@@ -18,3 +22,10 @@ nav:
 - 'Download': 
     - "Disclaimer": 'index.md'
     - "Download": 'index.md'
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/orionmmiller/   
+
+copyright: Copyright &copy; 2023 Orion Miller
