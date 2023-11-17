@@ -1,5 +1,10 @@
-site_name: Avera G60
-
+site_name: Avera G-60 Electric Guitar
+theme: 
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+  favicon: images/favicon.ico
 
 repo_url: https://github.com/orion-miller/Avera_G60_Website
 site_author: Orion Miller
