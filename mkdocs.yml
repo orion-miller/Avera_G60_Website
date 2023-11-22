@@ -15,13 +15,13 @@ site_author: Orion Miller
 site_description: "Avera G-60 electric guitar design"
 
 nav:
-- 'About': 'index.md'
-- 'Specs': 'index.md'
-- 'Controls': 'index.md'
-- 'Image Gallery': 'index.md'
-- 'Download': 
-    - "Disclaimer": 'index.md'
-    - "Download": 'index.md'
+- 'About': 'about.md'
+- 'Specs': 
+  - 'Specs': 'specs.md'
+  - 'Controls': 'controls.md'
+- 'Image Gallery': 'image_gallery.md'
+- "Download": 'download.md'
+- 'Discussion': 'discussion.md'    
 
 extra:
   social:
