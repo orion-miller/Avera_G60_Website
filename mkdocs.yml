@@ -8,6 +8,7 @@ theme: #for configuration see https://squidfunk.github.io/mkdocs-material/setup/
   palette:
     scheme: slate
     primary: black
+  logo: images/favicon.ico
   favicon: images/favicon.ico
   font:
     text: PT Sans  
@@ -18,10 +19,10 @@ theme: #for configuration see https://squidfunk.github.io/mkdocs-material/setup/
     - navigation.indexes 
     - toc.integrate
 
-repo_url: https://github.com/orion-miller/Avera_G60_Website #adds link to repo in header
+# repo_url: https://github.com/orion-miller/Avera_G60_Website #adds link to repo in header
 
 nav:
-- 'About': 'about.md'
+- 'About': 'index.md'
 - 'Specs': 
   - 'Specs': 'specs.md'
   - 'Controls': 'controls.md'
@@ -35,6 +36,6 @@ extra:
       link: https://www.linkedin.com/in/orionmmiller/   
     - icon: fontawesome/brands/github
       link: https://github.com/orion-miller   
-  generator: false #takes away made with mkdocs message (takes up an extra line) - can add back inline if you want to keep it           
+  # generator: false #takes away made with mkdocs message (takes up an extra line) - can add back inline if you want to keep it           
 
 copyright: Copyright &copy; 2023 Orion Miller
