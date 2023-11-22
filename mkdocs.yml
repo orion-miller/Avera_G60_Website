@@ -1,6 +1,10 @@
 site_name: Avera G-60 Electric Guitar
-theme: 
+site_author: Orion Miller
+site_description: "Avera G-60 electric guitar design"
+
+theme: #for configuration see https://squidfunk.github.io/mkdocs-material/setup/
   name: material
+  custom_dir: overrides  
   palette:
     scheme: slate
     primary: black
@@ -8,11 +12,13 @@ theme:
   font:
     text: PT Sans  
   features:
-    - navigation.tabs    
+    - navigation.tabs  
+    # - navigation.tabs.sticky 
+    - navigation.top    
+    - navigation.indexes 
+    - toc.integrate
 
-repo_url: https://github.com/orion-miller/Avera_G60_Website
-site_author: Orion Miller
-site_description: "Avera G-60 electric guitar design"
+repo_url: https://github.com/orion-miller/Avera_G60_Website #adds link to repo in header
 
 nav:
 - 'About': 'about.md'
@@ -27,5 +33,8 @@ extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/orionmmiller/   
+    - icon: fontawesome/brands/github
+      link: https://github.com/orion-miller   
+  generator: false #takes away made with mkdocs message (takes up an extra line) - can add back inline if you want to keep it           
 
 copyright: Copyright &copy; 2023 Orion Miller
