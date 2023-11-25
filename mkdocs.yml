@@ -22,11 +22,13 @@ theme: #for configuration see https://squidfunk.github.io/mkdocs-material/setup/
 # repo_url: https://github.com/orion-miller/Avera_G60_Website #adds link to repo in header
 
 nav:
-- 'About': 'index.md'
-- 'Specs': 
+- 'About': 
+  - 'About': 'index.md'
+# - 'Specs': 
   - 'Specs': 'specs.md'
   - 'Controls': 'controls.md'
 - 'Image Gallery': 'image_gallery.md'
+- 'Build Process': 'build_process.md'
 - "Download": 'download.md'
 - 'Discussion': 'discussion.md'    
 
@@ -36,6 +38,6 @@ extra:
       link: https://www.linkedin.com/in/orionmmiller/   
     - icon: fontawesome/brands/github
       link: https://github.com/orion-miller   
-  # generator: false #takes away made with mkdocs message (takes up an extra line) - can add back inline if you want to keep it           
+  generator: false #takes away made with mkdocs message (takes up an extra line) - can add back inline if want to keep it           
 
 copyright: Copyright &copy; 2023 Orion Miller
