@@ -9,14 +9,14 @@ hide:
 
 ![img](images/renders/37.png)
 
-![img](images\renders\ps2.jpg)
+![img](images/renders/ps2.jpg)
 
-![img](images\renders\56.png)
+![img](images/renders/56.png)
 
-![img](images\renders\30.png)
+![img](images/renders/30.png)
 
-![img](images\renders\ps-headstocks.jpg)
+![img](images/renders/ps-headstocks.jpg)
 
-![img](images\renders\55.png)
+![img](images/renders/55.png)
 
 

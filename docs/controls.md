@@ -6,6 +6,6 @@ hide:
 # Controls
 
 
-![img](images\renders\45.png)
+![img](images/renders/45.png)
 
 
