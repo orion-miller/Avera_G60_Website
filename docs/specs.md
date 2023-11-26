@@ -15,7 +15,7 @@ hide:
 | **Fretboard Material**      | African Ebony |
 | **Fretboard Radius**      | 9.5" |
 | **Number of Frets**      | 22 |
-| **Fret Size**      | Dunlop 6105 |
+| **Fret Size**      | Dunlop 6105 (Tall and Narrow) |
 | **Fret Markers**      | Stainless Steel |
 | **Nut**      | Graphtech TUSQ XL |
 | **Nut Width**      | 42 mm |
