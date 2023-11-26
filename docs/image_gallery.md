@@ -3,9 +3,9 @@ hide:
   - toc
 ---
 
-![img](images\renders\48.png)
+![img](/images/renders/48.png)
 
-![img](images\renders\41.png)
+![img](images/renders/41.png)
 
 ![img](images\renders\37.png)
 
