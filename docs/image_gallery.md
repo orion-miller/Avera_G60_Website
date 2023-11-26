@@ -7,7 +7,7 @@ hide:
 
 ![img](images/renders/41.png)
 
-![img](images\renders\37.png)
+![img](\images\renders\37.png)
 
 ![img](images\renders\ps2.jpg)
 
