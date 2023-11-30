@@ -24,11 +24,10 @@ theme: #for configuration see https://squidfunk.github.io/mkdocs-material/setup/
 nav:
 - 'About': 
   - 'About': 'index.md'
-# - 'Specs': 
   - 'Specs': 'specs.md'
   - 'Controls': 'controls.md'
+  - 'Build Process': 'build_process.md'
 - 'Image Gallery': 'image_gallery.md'
-- 'Build Process': 'build_process.md'
 - "Download": 'download.md'
 - 'Discussion': 'discussion.md'    
 
@@ -41,3 +40,5 @@ extra:
   generator: false #takes away made with mkdocs message (takes up an extra line) - can add back inline if want to keep it           
 
 copyright: Copyright &copy; 2023 Orion Miller
+
+#to serve locally, go to this dir in command prompt and enter "mkdocs serve"

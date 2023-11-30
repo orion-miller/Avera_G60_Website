@@ -12,6 +12,7 @@ hide:
 | **Body/Neck Finish**      | Phthalo Blue Stain, 2K Clearcoat |
 | **Scale Length**      | 25.5" |
 | **Neck Joint**      | Set Neck  |
+| **Neck Reinforcement**      | Carbon Fiber Barstock 6x10 mm |
 | **Fretboard Material**      | African Ebony |
 | **Fretboard Radius**      | 9.5" |
 | **Number of Frets**      | 22 |
