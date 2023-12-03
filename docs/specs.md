@@ -5,6 +5,8 @@ hide:
 
 # Specs
 
+In the table below are the specs of my personal build. You can of course substitute in different materials, components, and hardware using but do so at your own risk.
+
 |              |           |
 |--------------|-----------|
 | **Body Material** | Alder 2 Piece |
