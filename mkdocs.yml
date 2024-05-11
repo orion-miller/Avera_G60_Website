@@ -18,6 +18,8 @@ theme: #for configuration see https://squidfunk.github.io/mkdocs-material/setup/
     - navigation.top    
     - navigation.indexes 
     - toc.integrate
+    - navigation.instant
+    - navigation.instant.progress    
 
 # repo_url: https://github.com/orion-miller/Avera_G60_Website #adds link to repo in header
 
@@ -27,7 +29,7 @@ nav:
   - 'Specs': 'specs.md'
   - 'Controls': 'controls.md'
 - 'Build Process': 'build_process.md'
-- "Download Files": https://github.com/orion-miller/Avera-G60-Guitar-Design
+- "Download Files": 'download.md'
 - 'Image Gallery': 'image_gallery.md'
 - 'Discussion': 'discussion.md'    
 
