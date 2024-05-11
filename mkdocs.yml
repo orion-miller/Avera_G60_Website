@@ -26,9 +26,9 @@ nav:
   - 'About': 'index.md'
   - 'Specs': 'specs.md'
   - 'Controls': 'controls.md'
-  - 'Build Process': 'build_process.md'
+- 'Build Process': 'build_process.md'
+- "Download Files": https://github.com/orion-miller/Avera-G60-Guitar-Design
 - 'Image Gallery': 'image_gallery.md'
-- "Download": 'download.md'
 - 'Discussion': 'discussion.md'    
 
 extra:
