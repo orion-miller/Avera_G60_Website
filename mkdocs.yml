@@ -39,6 +39,6 @@ extra:
       link: https://github.com/orion-miller   
   generator: false #takes away made with mkdocs message (takes up an extra line) - can add back inline if want to keep it           
 
-copyright: Copyright &copy; 2023 Orion Miller
+copyright: Copyright &copy; 2023-2024 Orion Miller
 
 #to serve locally, go to this dir in command prompt and enter "mkdocs serve"
