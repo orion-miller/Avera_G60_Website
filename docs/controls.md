@@ -6,7 +6,7 @@ hide:
 # Controls
 
 
-![img](images/renders/45.png)
+![img](images/Controls_Diagram.jpg)
 
 
 ![img](images/Wiring_Diagram.jpg)
