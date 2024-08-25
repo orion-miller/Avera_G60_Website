@@ -35,14 +35,14 @@ nav:
 
 extra:
   social:
-    - icon: fontawesome/icons/envelope
+    - icon: fontawesome/solid/envelope
       link: mailto:orion.miller@outlook.com    
     - icon: fontawesome/brands/github
       link: https://github.com/orion-miller        
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/orionmmiller/   
-  disqus: orionmiller
   generator: false #takes away made with mkdocs message (takes up an extra line) - can add back inline if want to keep it  
+  # disqus: orionmiller  
   # analytics:
   #   provider: google
   #   property: G-XXXXXXXXXX         
