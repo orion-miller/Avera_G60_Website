@@ -31,15 +31,21 @@ nav:
 - 'Build Process': 'build_process.md'
 - "Download Files": 'download.md'
 - 'Image Gallery': 'image_gallery.md'
-- 'Discussion': 'discussion.md'    
+# - 'Discussion': 'discussion.md'    
 
 extra:
   social:
+    - icon: fontawesome/icons/envelope
+      link: mailto:orion.miller@outlook.com    
+    - icon: fontawesome/brands/github
+      link: https://github.com/orion-miller        
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/orionmmiller/   
-    - icon: fontawesome/brands/github
-      link: https://github.com/orion-miller   
-  generator: false #takes away made with mkdocs message (takes up an extra line) - can add back inline if want to keep it           
+  disqus: orionmiller
+  generator: false #takes away made with mkdocs message (takes up an extra line) - can add back inline if want to keep it  
+  # analytics:
+  #   provider: google
+  #   property: G-XXXXXXXXXX         
 
 copyright: Copyright &copy; 2023-2024 Orion Miller
 
