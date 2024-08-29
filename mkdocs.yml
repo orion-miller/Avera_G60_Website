@@ -8,6 +8,7 @@ theme: #for configuration see https://squidfunk.github.io/mkdocs-material/setup/
   palette:
     scheme: slate
     primary: black
+    accent: teal
   logo: images/S_Avera_Logo7.png
   favicon: images/favicon.ico
   font:
