@@ -48,6 +48,6 @@ extra:
   #   provider: google
   #   property: G-XXXXXXXXXX         
 
-copyright: Copyright &copy; 2023-2024 Orion Miller
+copyright: Copyright &copy; 2023-2025 Orion Miller
 
 #to serve locally, go to this dir in command prompt and enter "mkdocs serve"
