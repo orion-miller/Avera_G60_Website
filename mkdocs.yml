@@ -7,7 +7,7 @@ theme: #for configuration see https://squidfunk.github.io/mkdocs-material/setup/
   custom_dir: overrides  
   palette:
     scheme: slate
-    primary: black
+    # primary: black
     accent: teal
   logo: images/S_Avera_Logo7.png
   favicon: images/favicon.ico
@@ -46,8 +46,11 @@ extra:
   # disqus: orionmiller  
   # analytics:
   #   provider: google
-  #   property: G-XXXXXXXXXX         
+  #   property: G-XXXXXXXXXX   
 
-copyright: '&copy; 2023-2025 Orion Miller'
+extra_css:
+  - stylesheets/extra.css      
+
+copyright: '&copy; 2023-2026 Orion Miller'
 
 #to serve locally, go to this dir in command prompt and enter "mkdocs serve"
