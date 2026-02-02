@@ -1,0 +1,5 @@
+:root > * {
+    --md-primary-fg-color: #1a4b48;
+    --md-footer-bg-color--dark: #202020;       
+    --md-default-bg-color: #000000;     
+}
